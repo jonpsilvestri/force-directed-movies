@@ -8,5 +8,7 @@ Specific nodes can be searched for by thier name, rank, id, or director. If the 
 
 <img src="graphLabels.png" alt="Alt Text" width="700" height="300">
 
+The right panel shows information about a node that is moused-over. If the data is incorrect, a user can manually update it by typing in the text field, and clicking the "Update" button
+
 <img src="chordD.png" alt="Alt Text" width="700" height="300">
 
