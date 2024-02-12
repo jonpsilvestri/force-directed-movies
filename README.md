@@ -12,9 +12,17 @@ A user can also manually connect two nodes together by clicking and dragging a l
 
 The right panel shows information about a node that is moused-over. If the data is incorrect, a user can manually update it by typing in the text field, and clicking the "Update" button
 
-### Alternate view
+## Alternate view
 
 There is also an alternate view available which uses a chord diagram
 
 <img src="chordD.png" alt="Alt Text" width="700" height="300">
+
+## Install
+
+```nodeJS``` and ```npm``` must be installed on your current machine.
+
+clone this repo, and use ```node server.js```
+
+server will forward port to ```http://localhost:3000``` where you can interact with the graph
 
